@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240">
+  <defs>
+    <linearGradient id="ar" x1="0" x2="1">
+      <stop offset="0%" stop-color="#9a5f41"/>
+      <stop offset="100%" stop-color="#d8af8f"/>
+    </linearGradient>
+  </defs>
+  <circle cx="96" cy="96" r="70" fill="none" stroke="url(#ar)" stroke-width="8"/>
+  <path d="M118 52a52 52 0 1 1-38 90 54 54 0 0 0 38-90z" fill="url(#ar)" opacity=".8"/>
+  <text x="190" y="110" font-size="64" font-family="Cormorant Garamond, serif" fill="#2f261f" letter-spacing="1">Ariana</text>
+  <text x="192" y="164" font-size="36" font-family="Manrope, sans-serif" fill="#6f6158" letter-spacing="4">BEAUTY CLINIC</text>
+</svg>
