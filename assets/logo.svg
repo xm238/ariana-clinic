@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240">
-  <defs>
-    <linearGradient id="ar" x1="0" x2="1">
-      <stop offset="0%" stop-color="#9a5f41"/>
-      <stop offset="100%" stop-color="#d8af8f"/>
-    </linearGradient>
-  </defs>
-  <circle cx="96" cy="96" r="70" fill="none" stroke="url(#ar)" stroke-width="8"/>
-  <path d="M118 52a52 52 0 1 1-38 90 54 54 0 0 0 38-90z" fill="url(#ar)" opacity=".8"/>
-  <text x="190" y="110" font-size="64" font-family="Cormorant Garamond, serif" fill="#2f261f" letter-spacing="1">Ariana</text>
-  <text x="192" y="164" font-size="36" font-family="Manrope, sans-serif" fill="#6f6158" letter-spacing="4">BEAUTY CLINIC</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#729688"/><stop offset="100%" stop-color="#aec8bd"/></linearGradient></defs>
+<circle cx="98" cy="102" r="74" fill="none" stroke="url(#g)" stroke-width="8"/>
+<path d="M130 58a55 55 0 1 1-40 93 56 56 0 0 0 40-93z" fill="url(#g)" opacity=".85"/>
+<text x="204" y="116" font-size="70" font-family="Playfair Display, serif" fill="#22322c">Ariana</text>
+<text x="206" y="178" font-size="34" letter-spacing="4" font-family="Manrope, sans-serif" fill="#5f786d">BEAUTY CENTER &amp; CLINIC</text>
 </svg>
